@@ -1,2 +1,9 @@
 # ComfyUI-Select-Any
 a comfyui custom node, which can select value from inputs
+
+## Nodes
+
+### SelectAnyValues
+
+can choose one active value from inputs by your inputs
+
