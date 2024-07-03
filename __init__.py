@@ -1,6 +1,11 @@
 
 from .nodes import SelectAnyValues
 
+import torch
+print("torch version :" + torch.__version__)
+print("cuda version :" + torch.version.cuda)
+print("cudnn version :" + str(torch.backends.cudnn.version()))
+
 NODE_CLASS_MAPPINGS = {
     "SelectAnyValues": SelectAnyValues,
 }
