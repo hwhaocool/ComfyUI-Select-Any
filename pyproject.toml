@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-select-any"
+description = "a comfyui custom node, which can select value from inputs"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/hwhaocool/ComfyUI-Select-Any"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Select-Any"
+Icon = ""
