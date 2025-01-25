@@ -2,7 +2,7 @@
 name = "comfyui-select-any"
 description = "a comfyui custom node, which can select value from inputs"
 version = "1.0.0"
-license = "LICENSE"
+license = { file = "LICENSE" }
 
 [project.urls]
 Repository = "https://github.com/hwhaocool/ComfyUI-Select-Any"
